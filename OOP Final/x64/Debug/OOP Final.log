@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\OOP Final\Question.h(73,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\OOP Final\Question.h(237,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\OOP Final\admin.h(103,6): warning C4286: 'std::domain_error': is caught by base class ('std::exception') on line 97
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\OOP Final\Source.cpp(3,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OOP Final.vcxproj -> C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\x64\Debug\OOP Final.exe
